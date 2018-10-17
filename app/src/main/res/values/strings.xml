@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CheeseFinder</string>
+    <string name="nothing_found" />
+</resources>
